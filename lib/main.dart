@@ -4,6 +4,8 @@ import 'widgets/expenses.dart';
 
 import 'package:flutter/services.dart';
 
+//// comement này để test git có tự động cloen không
+///
 var kColorScheme = ColorScheme.fromSeed(
   seedColor: const Color.fromARGB(255, 255, 159, 110),
 );
